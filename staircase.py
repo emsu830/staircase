@@ -1,7 +1,6 @@
-"""
-Name: Emily Su
-Project: Staircase
-"""
+# Author: Emily Su
+# Last Revised: May 2021
+
 '''
 prompts user to provide the number of steps to create
 '''
